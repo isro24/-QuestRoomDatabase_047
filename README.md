@@ -16,6 +16,8 @@
 ** Data Berhasil Didelete **
 ![Setelah_Delete](https://github.com/user-attachments/assets/fa6e33a5-3f39-45dc-b456-e0cf986b6bee)
 
-** Edit Mahasiswa **
-![Edit_Mahasiswa](https://github.com/user-attachments/assets/71b02ef2-4165-4db0-8e01-e9874d9a3184)
+** Edit Data **
+![Edit_Data](https://github.com/user-attachments/assets/6d43a4f7-0684-4bf9-b700-795782bd0145)
 
+** Data Berhasil Diedit **
+![Setelah_Edit](https://github.com/user-attachments/assets/312555b7-e0af-44a1-801a-af4bbe100584)
